@@ -1,0 +1,40 @@
+D:\4º período\Desenvolvimento de Aplicativos Web e Cloud Computing\ProvaBimestral\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\4º período\Desenvolvimento de Aplicativos Web e Cloud Computing\ProvaBimestral\bin\Debug\netcoreapp3.1\appsettings.json
+D:\4º período\Desenvolvimento de Aplicativos Web e Cloud Computing\ProvaBimestral\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\4º período\Desenvolvimento de Aplicativos Web e Cloud Computing\ProvaBimestral\bin\Debug\netcoreapp3.1\ProvaBimestral.exe
+D:\4º período\Desenvolvimento de Aplicativos Web e Cloud Computing\ProvaBimestral\bin\Debug\netcoreapp3.1\ProvaBimestral.deps.json
+D:\4º período\Desenvolvimento de Aplicativos Web e Cloud Computing\ProvaBimestral\bin\Debug\netcoreapp3.1\ProvaBimestral.runtimeconfig.json
+D:\4º período\Desenvolvimento de Aplicativos Web e Cloud Computing\ProvaBimestral\bin\Debug\netcoreapp3.1\ProvaBimestral.runtimeconfig.dev.json
+D:\4º período\Desenvolvimento de Aplicativos Web e Cloud Computing\ProvaBimestral\bin\Debug\netcoreapp3.1\ProvaBimestral.dll
+D:\4º período\Desenvolvimento de Aplicativos Web e Cloud Computing\ProvaBimestral\bin\Debug\netcoreapp3.1\ProvaBimestral.pdb
+D:\4º período\Desenvolvimento de Aplicativos Web e Cloud Computing\ProvaBimestral\obj\Debug\netcoreapp3.1\ProvaBimestral.csprojAssemblyReference.cache
+D:\4º período\Desenvolvimento de Aplicativos Web e Cloud Computing\ProvaBimestral\obj\Debug\netcoreapp3.1\ProvaBimestral.AssemblyInfoInputs.cache
+D:\4º período\Desenvolvimento de Aplicativos Web e Cloud Computing\ProvaBimestral\obj\Debug\netcoreapp3.1\ProvaBimestral.AssemblyInfo.cs
+D:\4º período\Desenvolvimento de Aplicativos Web e Cloud Computing\ProvaBimestral\obj\Debug\netcoreapp3.1\ProvaBimestral.csproj.CoreCompileInputs.cache
+D:\4º período\Desenvolvimento de Aplicativos Web e Cloud Computing\ProvaBimestral\obj\Debug\netcoreapp3.1\ProvaBimestral.MvcApplicationPartsAssemblyInfo.cache
+D:\4º período\Desenvolvimento de Aplicativos Web e Cloud Computing\ProvaBimestral\obj\Debug\netcoreapp3.1\ProvaBimestral.RazorTargetAssemblyInfo.cache
+D:\4º período\Desenvolvimento de Aplicativos Web e Cloud Computing\ProvaBimestral\obj\Debug\netcoreapp3.1\staticwebassets\ProvaBimestral.StaticWebAssets.Manifest.cache
+D:\4º período\Desenvolvimento de Aplicativos Web e Cloud Computing\ProvaBimestral\obj\Debug\netcoreapp3.1\staticwebassets\ProvaBimestral.StaticWebAssets.xml
+D:\4º período\Desenvolvimento de Aplicativos Web e Cloud Computing\ProvaBimestral\obj\Debug\netcoreapp3.1\ProvaBimestral.dll
+D:\4º período\Desenvolvimento de Aplicativos Web e Cloud Computing\ProvaBimestral\obj\Debug\netcoreapp3.1\ProvaBimestral.pdb
+D:\4º período\Desenvolvimento de Aplicativos Web e Cloud Computing\ProvaBimestral\obj\Debug\netcoreapp3.1\ProvaBimestral.genruntimeconfig.cache
+C:\Users\Edriel\Desktop\ProvaBimestral\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Edriel\Desktop\ProvaBimestral\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Edriel\Desktop\ProvaBimestral\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Edriel\Desktop\ProvaBimestral\bin\Debug\netcoreapp3.1\ProvaBimestral.exe
+C:\Users\Edriel\Desktop\ProvaBimestral\bin\Debug\netcoreapp3.1\ProvaBimestral.deps.json
+C:\Users\Edriel\Desktop\ProvaBimestral\bin\Debug\netcoreapp3.1\ProvaBimestral.runtimeconfig.json
+C:\Users\Edriel\Desktop\ProvaBimestral\bin\Debug\netcoreapp3.1\ProvaBimestral.runtimeconfig.dev.json
+C:\Users\Edriel\Desktop\ProvaBimestral\bin\Debug\netcoreapp3.1\ProvaBimestral.dll
+C:\Users\Edriel\Desktop\ProvaBimestral\bin\Debug\netcoreapp3.1\ProvaBimestral.pdb
+C:\Users\Edriel\Desktop\ProvaBimestral\obj\Debug\netcoreapp3.1\ProvaBimestral.csprojAssemblyReference.cache
+C:\Users\Edriel\Desktop\ProvaBimestral\obj\Debug\netcoreapp3.1\ProvaBimestral.AssemblyInfoInputs.cache
+C:\Users\Edriel\Desktop\ProvaBimestral\obj\Debug\netcoreapp3.1\ProvaBimestral.AssemblyInfo.cs
+C:\Users\Edriel\Desktop\ProvaBimestral\obj\Debug\netcoreapp3.1\ProvaBimestral.csproj.CoreCompileInputs.cache
+C:\Users\Edriel\Desktop\ProvaBimestral\obj\Debug\netcoreapp3.1\ProvaBimestral.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Edriel\Desktop\ProvaBimestral\obj\Debug\netcoreapp3.1\ProvaBimestral.RazorTargetAssemblyInfo.cache
+C:\Users\Edriel\Desktop\ProvaBimestral\obj\Debug\netcoreapp3.1\staticwebassets\ProvaBimestral.StaticWebAssets.Manifest.cache
+C:\Users\Edriel\Desktop\ProvaBimestral\obj\Debug\netcoreapp3.1\staticwebassets\ProvaBimestral.StaticWebAssets.xml
+C:\Users\Edriel\Desktop\ProvaBimestral\obj\Debug\netcoreapp3.1\ProvaBimestral.dll
+C:\Users\Edriel\Desktop\ProvaBimestral\obj\Debug\netcoreapp3.1\ProvaBimestral.pdb
+C:\Users\Edriel\Desktop\ProvaBimestral\obj\Debug\netcoreapp3.1\ProvaBimestral.genruntimeconfig.cache
